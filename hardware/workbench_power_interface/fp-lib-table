@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "perfboard") (type "KiCad") (uri "${KIPRJMOD}/perfboard.pretty") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/Library.pretty") (options "") (descr ""))
+	(lib (name "workbench_power_interface") (type "KiCad") (uri "${KIPRJMOD}/perfboard.pretty/workbench_power_interface.pretty") (options "") (descr ""))
+)

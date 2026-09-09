@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Editor local history
+.history/
+
+# KiCad backups
+*-backups/
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# KiCad autosave files
+_autosave-*
+
+# KiCad local/session files
+*.kicad_prl
+
+# KiCad lock files
+~*.lck

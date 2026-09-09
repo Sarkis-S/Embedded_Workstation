@@ -18,7 +18,7 @@ CC test:<br>
 Current limit ≈ 20 mA<br>
 Output fell to approximately 2.5 V
 
-[CV-to-CC transition](https://drive.google.com/file/d/1ucTP2ZQBUEWI1NhLZwCDapar4SB8xM3h/view?usp=drive_link)
+[View CV-to-CC transition](https://drive.google.com/file/d/1ucTP2ZQBUEWI1NhLZwCDapar4SB8xM3h/view?usp=drive_link)
 
 Conclusion:<br>
 Low-current panel measurements are relatively coarse,<br>
